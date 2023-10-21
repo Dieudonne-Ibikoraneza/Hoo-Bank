@@ -1,32 +1,12 @@
-# HooBank
-This is a Next generation payment method that fits your needs through calculating annual percentage rates and fees.
-It is a cutting-edge financial platform that revolutionizes the way payments are processed and managed. With a focus on the next generation of payment methods, Hoobank provides a seamless, secure, and efficient financial experience for users worldwide.
+# HooBank - Modern UI/UX website using React.js & Tailwind CSS
 
-## Features
+![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
 
-- **Next-Generation Payment Methods**: We support the latest payment technologies to ensure fast and secure transactions for our users.
-- **Security First**: Hoobank prioritizes the security of your financial data with state-of-the-art encryption and fraud prevention measures.
-- **User-Friendly Interface**: Our intuitive and easy-to-navigate interface makes managing your finances hassle-free.
-- **Personalized Solutions**: Customizable options for users and businesses to cater to their unique financial needs.
-- **24/7 Customer Support**: We provide round-the-clock customer service to address any queries or concerns you may have.
+### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
+### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
 
-## Getting Started
+### Showcase your dev skills with practical experience and land the coding career of your dreams
+💻 JS Mastery Pro - https://jsmastery.pro/youtube
+✅ A special YOUTUBE discount code is automatically applied!
 
-To get started with Hoobank, simply follow these steps:
-
-1. Clone this repository.
- https://github.com/ibikoraneza-dieudonne/HooBank.git
-2. Install the required dependencies.
- npm install
-3. Run the development server.
- npm run dev
-4. Open your web browser and go to http://localhost:5173/ to access the Hoobank website.
-
-## Technologies Used
-
-- Frontend: reactJS and Tailwind CSS
-
-## Contribution
-
-We recommend you to check our github repository and star for your contribution
-https://github.com/ibikoraneza-dieudonne
+📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://www.jsmastery.pro/links
